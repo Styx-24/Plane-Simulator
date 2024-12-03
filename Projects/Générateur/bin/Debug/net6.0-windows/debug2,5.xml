@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scenario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Airports>
+    <Airport>
+      <Name>port1</Name>
+      <Position>
+        <X>100</X>
+        <Y>100</Y>
+      </Position>
+      <PassengerMin>1</PassengerMin>
+      <PassengerMax>1</PassengerMax>
+      <CargoMin>1</CargoMin>
+      <CargoMax>1</CargoMax>
+      <Aircrafts>
+        <Aircraft xsi:type="PrivateJet">
+          <Name>observer</Name>
+          <Speed>33</Speed>
+          <Maintains>3</Maintains>
+        </Aircraft>
+        <Aircraft xsi:type="RescueHelicopter">
+          <Name>rescue</Name>
+          <Speed>33</Speed>
+          <Maintains>3</Maintains>
+        </Aircraft>
+      </Aircrafts>
+    </Airport>
+    <Airport>
+      <Name>port2</Name>
+      <Position>
+        <X>500</X>
+        <Y>500</Y>
+      </Position>
+      <PassengerMin>1</PassengerMin>
+      <PassengerMax>1</PassengerMax>
+      <CargoMin>1</CargoMin>
+      <CargoMax>1</CargoMax>
+      <Aircrafts>
+        <Aircraft xsi:type="FireFightingPlane">
+          <Name>fire</Name>
+          <Speed>33</Speed>
+          <Maintains>3</Maintains>
+        </Aircraft>
+      </Aircrafts>
+    </Airport>
+  </Airports>
+</Scenario>

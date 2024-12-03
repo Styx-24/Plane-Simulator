@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Scenario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Airports>
+    <Airport>
+      <Name>St-Charles</Name>
+      <Position>
+        <X>100</X>
+        <Y>70</Y>
+      </Position>
+      <PassengerMin>10</PassengerMin>
+      <PassengerMax>200</PassengerMax>
+      <CargoMin>10</CargoMin>
+      <CargoMax>100</CargoMax>
+      <Aircrafts>
+        <Aircraft xsi:type="PassengerPlane">
+          <Name>BobAirLines</Name>
+          <Speed>20</Speed>
+          <Maintains>10</Maintains>
+          <Boarding>6000</Boarding>
+          <Unboarding>10</Unboarding>
+        </Aircraft>
+        <Aircraft xsi:type="FireFightingPlane">
+          <Name>BobFires</Name>
+          <Speed>30</Speed>
+          <Maintains>10</Maintains>
+        </Aircraft>
+        <Aircraft xsi:type="PrivateJet">
+          <Name>BobLuxuries</Name>
+          <Speed>30</Speed>
+          <Maintains>10</Maintains>
+        </Aircraft>
+        <Aircraft xsi:type="RescueHelicopter">
+          <Name>BobRescues</Name>
+          <Speed>30</Speed>
+          <Maintains>10</Maintains>
+        </Aircraft>
+        <Aircraft xsi:type="CargoPlane">
+          <Name>BobCargo</Name>
+          <Speed>30</Speed>
+          <Maintains>10</Maintains>
+          <Boarding>6000</Boarding>
+          <Unboarding>10</Unboarding>
+        </Aircraft>
+      </Aircrafts>
+    </Airport>
+    <Airport>
+      <Name>St-Louis</Name>
+      <Position>
+        <X>700</X>
+        <Y>100</Y>
+      </Position>
+      <PassengerMin>100</PassengerMin>
+      <PassengerMax>300</PassengerMax>
+      <CargoMin>10</CargoMin>
+      <CargoMax>30</CargoMax>
+      <Aircrafts>
+        <Aircraft xsi:type="PassengerPlane">
+          <Name>Steve</Name>
+          <Speed>30</Speed>
+          <Maintains>30</Maintains>
+          <Boarding>6000</Boarding>
+          <Unboarding>20</Unboarding>
+        </Aircraft>
+        <Aircraft xsi:type="PassengerPlane">
+          <Name>Dante</Name>
+          <Speed>30</Speed>
+          <Maintains>30</Maintains>
+          <Boarding>6000</Boarding>
+          <Unboarding>20</Unboarding>
+        </Aircraft>
+        <Aircraft xsi:type="FireFightingPlane">
+          <Name>Inferno</Name>
+          <Speed>30</Speed>
+          <Maintains>30</Maintains>
+        </Aircraft>
+      </Aircrafts>
+    </Airport>
+    <Airport>
+      <Name>St-Sam</Name>
+      <Position>
+        <X>444</X>
+        <Y>450</Y>
+      </Position>
+      <PassengerMin>100</PassengerMin>
+      <PassengerMax>200</PassengerMax>
+      <CargoMin>10</CargoMin>
+      <CargoMax>30</CargoMax>
+      <Aircrafts>
+        <Aircraft xsi:type="PrivateJet">
+          <Name>RichDudes</Name>
+          <Speed>30</Speed>
+          <Maintains>30</Maintains>
+        </Aircraft>
+        <Aircraft xsi:type="PassengerPlane">
+          <Name>BobAgain</Name>
+          <Speed>30</Speed>
+          <Maintains>30</Maintains>
+          <Boarding>6000</Boarding>
+          <Unboarding>20</Unboarding>
+        </Aircraft>
+        <Aircraft xsi:type="PassengerPlane">
+          <Name>BobAnotherTime</Name>
+          <Speed>30</Speed>
+          <Maintains>30</Maintains>
+          <Boarding>6000</Boarding>
+          <Unboarding>20</Unboarding>
+        </Aircraft>
+      </Aircrafts>
+    </Airport>
+    <Airport>
+      <Name>center</Name>
+      <Position>
+        <X>400</X>
+        <Y>250</Y>
+      </Position>
+      <PassengerMin>100</PassengerMin>
+      <PassengerMax>200</PassengerMax>
+      <CargoMin>10</CargoMin>
+      <CargoMax>20</CargoMax>
+      <Aircrafts>
+        <Aircraft xsi:type="RescueHelicopter">
+          <Name>GouvernmentRescues</Name>
+          <Speed>40</Speed>
+          <Maintains>30</Maintains>
+        </Aircraft>
+        <Aircraft xsi:type="FireFightingPlane">
+          <Name>GouvermentFires</Name>
+          <Speed>40</Speed>
+          <Maintains>30</Maintains>
+        </Aircraft>
+        <Aircraft xsi:type="PassengerPlane">
+          <Name>centerAirLines</Name>
+          <Speed>40</Speed>
+          <Maintains>30</Maintains>
+          <Boarding>6000</Boarding>
+          <Unboarding>20</Unboarding>
+        </Aircraft>
+        <Aircraft xsi:type="PassengerPlane">
+          <Name>middleAirLines</Name>
+          <Speed>40</Speed>
+          <Maintains>30</Maintains>
+          <Boarding>6000</Boarding>
+          <Unboarding>20</Unboarding>
+        </Aircraft>
+      </Aircrafts>
+    </Airport>
+  </Airports>
+</Scenario>
