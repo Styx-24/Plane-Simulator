@@ -1,10 +1,10 @@
-# Simulateur D'avions
+# Plane Simulator
 
-## Comment utiliser
+## How to use
 
-Télécharger la dernière version du simulateur et executer le programme que vous voulez lancer.  
-Un sénario est déjas fournis pour utiliser le simulateur sans avoir a utiliser le générateur de sénario
+Download [the release](https://github.com/Styx-24/Plane-Simulator/releases/tag/first) and run the corsponding exe for the simulator or senario generator.  
+A senario is provided in the release to run the simulator without having to generate a senario first.
 
-## Dépendance
+## Depandancy
 
-.Net
+[.Net](https://dotnet.microsoft.com/en-us/download)
