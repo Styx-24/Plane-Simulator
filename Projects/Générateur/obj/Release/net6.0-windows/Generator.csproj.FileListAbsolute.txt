@@ -1,0 +1,33 @@
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\Generator.exe
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\Generator.deps.json
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\Generator.runtimeconfig.json
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\Generator.dll
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\Generator.pdb
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.csproj.AssemblyReference.cache
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\TP2.GeneratorForm.resources
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.csproj.GenerateResource.cache
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.AssemblyInfoInputs.cache
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.AssemblyInfo.cs
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.csproj.CoreCompileInputs.cache
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.dll
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\refint\Generator.dll
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.pdb
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.genruntimeconfig.cache
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\ref\Generator.dll
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\Generator.exe
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\Generator.deps.json
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\Generator.runtimeconfig.json
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\Generator.dll
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\Generator.pdb
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\TP2.GeneratorForm.resources
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.csproj.GenerateResource.cache
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.AssemblyInfoInputs.cache
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.AssemblyInfo.cs
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.csproj.CoreCompileInputs.cache
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.dll
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\refint\Generator.dll
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.pdb
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\Generator.genruntimeconfig.cache
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Générateur\obj\Release\net6.0-windows\ref\Generator.dll

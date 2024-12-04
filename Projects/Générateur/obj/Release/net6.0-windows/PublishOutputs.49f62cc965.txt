@@ -1,0 +1,5 @@
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\publish\Generator.exe
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\publish\Generator.dll
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\publish\Generator.deps.json
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\publish\Generator.runtimeconfig.json
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Générateur\bin\Release\net6.0-windows\publish\Generator.pdb

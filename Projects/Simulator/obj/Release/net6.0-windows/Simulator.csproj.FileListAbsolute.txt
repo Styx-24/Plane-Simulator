@@ -1,0 +1,35 @@
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\Simulator.exe
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\Simulator.deps.json
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\Simulator.runtimeconfig.json
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\Simulator.dll
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\Simulator.pdb
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.csproj.AssemblyReference.cache
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.MainForm.resources
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.Properties.Resources.resources
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.csproj.GenerateResource.cache
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.AssemblyInfoInputs.cache
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.AssemblyInfo.cs
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.dll
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\refint\Simulator.dll
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.pdb
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.genruntimeconfig.cache
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\ref\Simulator.dll
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\Simulator.exe
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\Simulator.deps.json
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\Simulator.runtimeconfig.json
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\Simulator.dll
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\Simulator.pdb
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.MainForm.resources
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.Properties.Resources.resources
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.csproj.GenerateResource.cache
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.AssemblyInfoInputs.cache
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.AssemblyInfo.cs
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.csproj.CoreCompileInputs.cache
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.dll
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\refint\Simulator.dll
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.pdb
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\Simulator.genruntimeconfig.cache
+C:\Users\atori\Downloads\Plane-Simulator\Projects\Simulator\obj\Release\net6.0-windows\ref\Simulator.dll

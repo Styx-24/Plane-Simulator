@@ -1,0 +1,5 @@
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\publish\Simulator.exe
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\publish\Simulator.dll
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\publish\Simulator.deps.json
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\publish\Simulator.runtimeconfig.json
+C:\Users\atori\OneDrive\Desktop\project cv\Plane-Simulator\Projects\Simulator\bin\Release\net6.0-windows\publish\Simulator.pdb

@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\atori\\Downloads\\Plane-Simulator\\Projects\\G\u00E9n\u00E9rateur\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\atori\\AppData\\Local\\Temp\\.vsdbgsrc\\cf883b597941b6e229a9fc983162e8334ae098ae5d43f9c9e46f2ef922b5a733\\Bitmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B83B3-8293-4B23-B207-9A2C1C2B5FB5}|Generator.csproj|c:\\users\\atori\\downloads\\plane-simulator\\projects\\g\u00E9n\u00E9rateur\\senariogenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B83B3-8293-4B23-B207-9A2C1C2B5FB5}|Generator.csproj|solutionrelative:senariogenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B83B3-8293-4B23-B207-9A2C1C2B5FB5}|Generator.csproj|c:\\users\\atori\\downloads\\plane-simulator\\projects\\g\u00E9n\u00E9rateur\\generatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B83B3-8293-4B23-B207-9A2C1C2B5FB5}|Generator.csproj|solutionrelative:generatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B83B3-8293-4B23-B207-9A2C1C2B5FB5}|Generator.csproj|C:\\Users\\atori\\Downloads\\Plane-Simulator\\Projects\\G\u00E9n\u00E9rateur\\generatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D65B83B3-8293-4B23-B207-9A2C1C2B5FB5}|Generator.csproj|solutionrelative:generatorform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE861C05-7063-4B32-AA61-EBD4ADD12384}|..\\Simulator\\Simulator.csproj|c:\\users\\atori\\downloads\\plane-simulator\\projects\\simulator\\simulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE861C05-7063-4B32-AA61-EBD4ADD12384}|..\\Simulator\\Simulator.csproj|c:\\users\\atori\\downloads\\plane-simulator\\projects\\simulator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bitmap.cs",
+              "DocumentMoniker": "C:\\Users\\atori\\AppData\\Local\\Temp\\.vsdbgsrc\\cf883b597941b6e229a9fc983162e8334ae098ae5d43f9c9e46f2ef922b5a733\\Bitmap.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cf883b597941b6e229a9fc983162e8334ae098ae5d43f9c9e46f2ef922b5a733\\Bitmap.cs",
+              "ToolTip": "C:\\Users\\atori\\AppData\\Local\\Temp\\.vsdbgsrc\\cf883b597941b6e229a9fc983162e8334ae098ae5d43f9c9e46f2ef922b5a733\\Bitmap.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cf883b597941b6e229a9fc983162e8334ae098ae5d43f9c9e46f2ef922b5a733\\Bitmap.cs [Read Only]",
+              "ViewState": "AQIAABAAAAAAAAAAAAAiwBgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:05:13.262Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SenarioGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\atori\\Downloads\\Plane-Simulator\\Projects\\G\u00E9n\u00E9rateur\\SenarioGenerator.cs",
+              "RelativeDocumentMoniker": "SenarioGenerator.cs",
+              "ToolTip": "C:\\Users\\atori\\Downloads\\Plane-Simulator\\Projects\\G\u00E9n\u00E9rateur\\SenarioGenerator.cs",
+              "RelativeToolTip": "SenarioGenerator.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAhwDoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:01:26.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GeneratorForm.cs",
+              "DocumentMoniker": "C:\\Users\\atori\\Downloads\\Plane-Simulator\\Projects\\G\u00E9n\u00E9rateur\\GeneratorForm.cs",
+              "RelativeDocumentMoniker": "GeneratorForm.cs",
+              "ToolTip": "C:\\Users\\atori\\Downloads\\Plane-Simulator\\Projects\\G\u00E9n\u00E9rateur\\GeneratorForm.cs",
+              "RelativeToolTip": "GeneratorForm.cs",
+              "ViewState": "AQIAAKwAAAAAAAAAAAAcwMIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:01:26.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GeneratorForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\atori\\Downloads\\Plane-Simulator\\Projects\\G\u00E9n\u00E9rateur\\GeneratorForm.cs",
+              "RelativeDocumentMoniker": "GeneratorForm.cs",
+              "ToolTip": "D:\\Travail\\Session_4\\Prog_4\\TP2\\CoopCockTorture\\TP2\\GeneratorForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-12-04T20:01:26.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Simulator.cs",
+              "DocumentMoniker": "C:\\Users\\atori\\Downloads\\Plane-Simulator\\Projects\\Simulator\\Simulator.cs",
+              "RelativeDocumentMoniker": "..\\Simulator\\Simulator.cs",
+              "ToolTip": "C:\\Users\\atori\\Downloads\\Plane-Simulator\\Projects\\Simulator\\Simulator.cs",
+              "RelativeToolTip": "..\\Simulator\\Simulator.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAEwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:01:26.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\atori\\Downloads\\Plane-Simulator\\Projects\\Simulator\\MainForm.cs",
+              "RelativeDocumentMoniker": "..\\Simulator\\MainForm.cs",
+              "ToolTip": "C:\\Users\\atori\\Downloads\\Plane-Simulator\\Projects\\Simulator\\MainForm.cs",
+              "RelativeToolTip": "..\\Simulator\\MainForm.cs",
+              "ViewState": "AQIAALwBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T20:01:26.555Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

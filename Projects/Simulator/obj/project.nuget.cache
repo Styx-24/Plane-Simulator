@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "N1M0LCyWBpk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\atori\\Downloads\\Plane-Simulator\\Projects\\Simulator\\Simulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\atori\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.33\\microsoft.windowsdesktop.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\atori\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.33\\microsoft.netcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\atori\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.33\\microsoft.aspnetcore.app.ref.6.0.33.nupkg.sha512",
+    "C:\\Users\\atori\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.33\\microsoft.netcore.app.host.win-x64.6.0.33.nupkg.sha512"
+  ],
+  "logs": []
+}
